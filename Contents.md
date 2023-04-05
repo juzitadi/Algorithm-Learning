@@ -1,8 +1,8 @@
 # LeetCode Practice Tracing History
 
-Topics Learning 
-**1. Array**
-**2. String**
+Topics Learning
+**1. Array ✅**
+**2. String ✅**
 **3. Linked list**
 **4. Stack**
 **5. Queue**
@@ -18,6 +18,7 @@ Topics Learning
 **15. Graph**
 
 ## Problem List
+
 **Part 1 Warmup (9)**
 
 1 Two Sum✅
@@ -38,10 +39,6 @@ Topics Learning
 
 53 Maximum Subarray✅（*）
 
-  
-
-  
-
 **Part 2 Binary Search (5)**
 
 704 Binary Search✅
@@ -54,11 +51,7 @@ Topics Learning
 
 300 Longest Increasing Subsequence
 
-  
-
-  
-
-**Part 3 BFS DFS (3)  
+**Part 3 BFS DFS (3)
 BFS in a tree**
 
 **DFS in a tree**
@@ -69,8 +62,6 @@ BFS in a tree**
 
 51 N-Queens
 
-  
-
 **Part 4 DP (4)**
 
 62 Unique Paths
@@ -80,8 +71,6 @@ BFS in a tree**
 55 Jump Game
 
 45 Jump Game II
-
-  
 
 **Part 5 Backtracking / Recursion (5)**
 
@@ -94,8 +83,6 @@ BFS in a tree**
 39 Combination Sum
 
 46 Permutations
-
-  
 
 **Part 6 Tree and LinkedList (8)**
 
