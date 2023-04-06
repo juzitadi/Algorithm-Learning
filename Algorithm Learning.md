@@ -74,7 +74,7 @@ char result = myStr.charAt(0);//Outputs: 0
 
 (4) compareTo() and compareToIgnoreCase()
 
-compares two strings lexicographically 
+compares two strings lexicographically
 
 -> **based on the Unicode value** of each character in the strings
 
@@ -116,12 +116,9 @@ System.out.println(firstName.concat(lastName));
 
 Checks whether a string ends/starts with the specified character(s)
 
-
-
 (8) hashcode()
 
 Returns the hash code of a string
-
 
 (9) isEmpty()
 
@@ -136,7 +133,6 @@ String myStr = "Hello";
 System.out.println(myStr.replace('l', 'p'));
 ```
 
-
 * input should be char
 
 (11) trim()
@@ -148,7 +144,6 @@ String myStr = "       Hello World!       ";
 System.out.println(myStr);
 System.out.println(myStr.trim());
 ```
-
 
 (12) Convert string to int
 
@@ -164,10 +159,20 @@ String str = "25";
 Integer number = Integer.valueOf(str);
 ```
 
-
 (13) Convert int to string
 
 ```
 int number = 5;
 String str = String.valueOf(number);
 ```
+
+## 3. Linked List
+
+1. Definition: a collection of objects (**called nodes**) that are randomly stored in the memory.
+
+Node contains 2 fields: (1) data stored at the particular address (2) pointer which contains the address of the next node in the memory
+
+![1680742904880](image/AlgorithmLearning/1680742904880.png)
+
+
+2. Uses of Linked List
