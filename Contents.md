@@ -3,7 +3,7 @@
 Topics Learning
 **1. Array ✅**
 **2. String ✅**
-**3. Linked list**
+**3. Linked list ✅**
 **4. Stack**
 **5. Queue**
 **6. Hash table**
@@ -98,6 +98,6 @@ BFS in a tree**
 
 236 Lowest Common Ancestor of a Binary Tree
 
-206 Reverse Linked List
+206 Reverse Linked List ✅
 
 141 Linked List Cycle
