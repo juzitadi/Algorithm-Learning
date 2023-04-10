@@ -98,6 +98,6 @@ BFS in a tree**
 
 236 Lowest Common Ancestor of a Binary Tree
 
-206 Reverse Linked List ✅
+206 Reverse Linked List ✅ (iterative solution?)
 
-141 Linked List Cycle
+141 Linked List Cycle ✅
