@@ -4,10 +4,10 @@ Topics Learning
 **1. Array ✅**
 **2. String ✅**
 **3. Linked list ✅**
-**4. Stack**
+**4. Stack ✅**
 **5. Queue**
 **6. Hash table**
-**7. Two points**
+**7. Two pointers**
 **8. Binary search**
 **9. Sort**
 **10. Tree/Binary Search Tree**
